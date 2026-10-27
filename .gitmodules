@@ -1,0 +1,48 @@
+[submodule "courses/mtb-training-psoc-edge-e84-introduction"]
+	path = courses/mtb-training-psoc-edge-e84-introduction
+	url = https://github.com/Infineon/mtb-training-psoc-edge-e84-introduction.git
+[submodule "courses/mtb-training-psoc-edge-e84-intro-ecosystem"]
+	path = courses/mtb-training-psoc-edge-e84-intro-ecosystem
+	url = https://github.com/Infineon/mtb-training-psoc-edge-e84-intro-ecosystem.git
+[submodule "courses/mtb-training-psoc-edge-e84-features"]
+	path = courses/mtb-training-psoc-edge-e84-features
+	url = https://github.com/Infineon/mtb-training-psoc-edge-e84-features.git
+[submodule "courses/mtb-training-psoc-edge-memory-usage"]
+	path = courses/mtb-training-psoc-edge-memory-usage
+	url = https://github.com/Infineon/mtb-training-psoc-edge-memory-usage.git
+[submodule "courses/mtb-training-psoc-edge-ml-importing-profiling"]
+	path = courses/mtb-training-psoc-edge-ml-importing-profiling
+	url = https://github.com/Infineon/mtb-training-psoc-edge-ml-importing-profiling.git
+[submodule "courses/mtb-training-psoc-edge-graphics"]
+	path = courses/mtb-training-psoc-edge-graphics
+	url = https://github.com/Infineon/mtb-training-psoc-edge-graphics.git
+[submodule "courses/mtb-training-psoc-edge-adv-voice-audio"]
+	path = courses/mtb-training-psoc-edge-adv-voice-audio
+	url = https://github.com/Infineon/mtb-training-psoc-edge-adv-voice-audio.git
+[submodule "courses/mtb-training-psoc-edge-security-intro"]
+	path = courses/mtb-training-psoc-edge-security-intro
+	url = https://github.com/Infineon/mtb-training-psoc-edge-security-intro.git
+[submodule "courses/mtb-training-psoc-edge-security-system-design"]
+	path = courses/mtb-training-psoc-edge-security-system-design
+	url = https://github.com/Infineon/mtb-training-psoc-edge-security-system-design.git
+[submodule "courses/mtb-training-psoc-edge-security-extended-boot"]
+	path = courses/mtb-training-psoc-edge-security-extended-boot
+	url = https://github.com/Infineon/mtb-training-psoc-edge-security-extended-boot.git
+[submodule "courses/mtb-training-psoc-edge-security-edge-protect-bootloader"]
+	path = courses/mtb-training-psoc-edge-security-edge-protect-bootloader
+	url = https://github.com/Infineon/mtb-training-psoc-edge-security-edge-protect-bootloader.git
+[submodule "courses/mtb-training-psoc-edge-security-tfm"]
+	path = courses/mtb-training-psoc-edge-security-tfm
+	url = https://github.com/Infineon/mtb-training-psoc-edge-security-tfm.git
+[submodule "courses/mtb-training-psoc-edge-security-encryption"]
+	path = courses/mtb-training-psoc-edge-security-encryption
+	url = https://github.com/Infineon/mtb-training-psoc-edge-security-encryption.git
+[submodule "courses/mtb-training-psoc-edge-security-epc2-vs-epc4"]
+	path = courses/mtb-training-psoc-edge-security-epc2-vs-epc4
+	url = https://github.com/Infineon/mtb-training-psoc-edge-security-epc2-vs-epc4.git
+[submodule "courses/mtb-training-psoc-edge-security-tips-tricks"]
+	path = courses/mtb-training-psoc-edge-security-tips-tricks
+	url = https://github.com/Infineon/mtb-training-psoc-edge-security-tips-tricks.git
+[submodule "courses/mtb-training-psoc-digital-peripherals"]
+	path = courses/mtb-training-psoc-digital-peripherals
+	url = https://github.com/Infineon/mtb-training-psoc-digital-peripherals.git
