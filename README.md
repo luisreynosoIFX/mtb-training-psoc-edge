@@ -4,6 +4,20 @@ Build your way from a first look at PSOC™ Edge to focused, hands-on developmen
 
 ![PSOC™ Edge brings machine learning to applications such as robotics, monitoring, smart home, and wearables](assets/image_psoc_edge_applications.png)
 
+## Access the training material
+
+Use a course link below to open that training directly on Infineon GitHub. To clone the complete collection, including all course repositories under `courses/`, use:
+
+```sh
+git clone --recurse-submodules https://github.com/luisreynosoIFX/mtb-training-psoc-edge.git
+```
+
+If you already cloned the hub without submodules, initialize them with:
+
+```sh
+git submodule update --init --recursive
+```
+
 ## Get started
 
 New to PSOC™ Edge? Follow these trainings in order:
@@ -46,4 +60,4 @@ Build security knowledge step by step, from core concepts to device provisioning
 
 ## Training index
 
-Browse the [ModusToolbox™ training catalog](https://github.com/Infineon/training-modustoolbox/blob/master/README.md#psoc-edge) for PSOC™ Edge and other device training.
+Browse the [ModusToolbox™ training catalog](https://github.com/luisreynosoIFX/training-modustoolbox/blob/master/README.md#psoc-edge) for PSOC™ Edge and other device training.
