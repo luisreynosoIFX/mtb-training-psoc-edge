@@ -6,17 +6,20 @@ Build your way from a first look at PSOC™ Edge to focused, hands-on developmen
 
 ## Access the training material
 
-Use a course link below to open that training directly on Infineon GitHub. To clone the complete collection, including all course repositories under `courses/`, use:
+There are two ways to get the training material:
 
-```sh
-git clone --recurse-submodules https://github.com/luisreynosoIFX/mtb-training-psoc-edge.git
-```
+- **Open a single training:** Select any course link on this page to open that training on Infineon GitHub. No cloning is needed.
+- **Get everything:** Clone this repository with submodules to download all courses under `courses/` at once:
 
-If you already cloned the hub without submodules, initialize them with:
+  ```sh
+  git clone --recurse-submodules https://github.com/luisreynosoIFX/mtb-training-psoc-edge.git
+  ```
 
-```sh
-git submodule update --init --recursive
-```
+  If you already cloned it without submodules, initialize them with:
+
+  ```sh
+  git submodule update --init --recursive
+  ```
 
 ## Get started
 
@@ -25,9 +28,12 @@ New to PSOC™ Edge? Follow these trainings in order:
 1. [PSOC™ Edge introduction](https://github.com/Infineon/mtb-training-psoc-edge-e84-introduction) — Get an overview of the device, its capabilities, and its hardware-assisted machine learning, sensor-fusion, and real-time-control features.
 2. [PSOC™ Edge getting started](https://github.com/Infineon/mtb-training-psoc-edge-e84-intro-ecosystem) — Set up the hardware and software tools, and find the resources you need to begin development with PSOC™ Edge E84.
 3. [PSOC™ Edge technical introduction](https://github.com/Infineon/mtb-training-psoc-edge-e84-features) — Explore key device features, including audio, graphics, sensor hub, memory, low-power modes, and machine learning.
-4. [PSOC™ digital peripherals training](https://github.com/Infineon/mtb-training-psoc-digital-peripherals) — Build a foundation in project creation and common peripherals, including GPIO, UART, SCBs, TCPWMs, interrupts, SysTick, and WDT, across PSOC™ 4, PSOC™ 6, and PSOC™ Edge.
 
 ## Choose a deeper dive
+
+### Peripherals and fundamentals
+
+- [PSOC™ digital peripherals training](https://github.com/Infineon/mtb-training-psoc-digital-peripherals) — Build a foundation in project creation and common peripherals, including GPIO, UART, SCBs, TCPWMs, interrupts, SysTick, and WDT, across PSOC™ 4, PSOC™ 6, and PSOC™ Edge.
 
 ### Security and secure systems
 
