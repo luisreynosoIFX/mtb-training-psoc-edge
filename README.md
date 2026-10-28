@@ -1,4 +1,4 @@
-# PSOC™ Edge Training
+# PSOC™ Edge E8xG Training
 
 Build your way from a first look at PSOC™ Edge to focused, hands-on development. Start with the device and development workflow, then choose the topics that match your application, including a complete path into embedded security.
 
@@ -11,15 +11,15 @@ There are two ways to get the training material:
 - **Open a single training:** Select any course link on this page to open that training on Infineon GitHub. No cloning is needed.
 - **Get everything:** Clone this repository with submodules to download all courses under `courses/` at once:
 
-  ```sh
-  git clone --recurse-submodules https://github.com/luisreynosoIFX/mtb-training-psoc-edge.git
-  ```
+```sh
+git clone --recurse-submodules https://github.com/luisreynosoIFX/psoc-training-edge-e8xg.git
+```
 
   If you already cloned it without submodules, initialize them with:
 
-  ```sh
-  git submodule update --init --recursive
-  ```
+```sh
+git submodule update --init --recursive
+```
 
 ## Get started
 
@@ -51,6 +51,11 @@ Build security knowledge step by step, from core concepts to device provisioning
 ### Machine learning
 
 - [Importing and profiling a pretrained ML model](https://github.com/Infineon/mtb-training-psoc-edge-ml-importing-profiling) — Optimize and profile neural networks for PSOC™ Edge using techniques such as pruning, sparsity, and quantization.
+
+#### DEEPCRAFT™ trainings
+
+- [DEEPCRAFT™ Studio](https://developer.imagimob.com/deepcraft-studio/training-manual) — This training introduces the end-to-end DEEPCRAFT™ Studio workflow for collecting and labeling data, building and evaluating custom Edge AI models, generating code, and deploying models to Infineon microcontrollers.
+- [DEEPCRAFT™ Model Converter](https://developer.imagimob.com/deepcraft-model-converter/training-manual) — This training shows how to import, optimize, validate, and generate deployment code for pre-trained AI models targeting Infineon microcontrollers.
 
 ### Graphics and user interfaces
 
